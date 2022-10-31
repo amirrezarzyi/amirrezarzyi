@@ -1,7 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-####### I'm Dev.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif">
+### I'm Dev.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif">
  
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28"> Currently working with Laravel Framwork at <a href="https://github.com/Sepehr-ICT"> Fava-Gostar-Sepehr.co </a>
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="28">  &nbsp;I’m currently learning Js, React
