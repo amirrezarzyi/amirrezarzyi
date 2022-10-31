@@ -2,9 +2,7 @@
 
 
 # I'm Dev.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif">
-
-   
-##### NOW
+ 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28"> Currently working with Laravel Framwork at <a href="https://github.com/Sepehr-ICT"> Fava-Gostar-Sepehr.co </a>
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="28">  &nbsp;I’m currently learning Js, React
 
