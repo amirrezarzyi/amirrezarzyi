@@ -3,6 +3,9 @@
 	Backend Developer & database analyzer
 </h3>  
 
+##### NOW
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> Currently working with Laravel Framwork at <a href="https://github.com/Sepehr-ICT"> Fava-Gostar-Sepehr.co </a>
+
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
