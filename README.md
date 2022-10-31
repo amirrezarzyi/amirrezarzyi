@@ -1,7 +1,11 @@
-<h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a>Hi, I'am Amirreza!  <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/><br></brBackend>
-	Backend Developer & database analyzer
-</h3>   
+# DEV.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif">
+
+ 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+ 
 
 ##### NOW
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="28"> Currently working with Laravel Framwork at <a href="https://github.com/Sepehr-ICT"> Fava-Gostar-Sepehr.co </a>
