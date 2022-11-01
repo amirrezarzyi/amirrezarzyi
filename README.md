@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **  Hello, I'm Dev.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif">** &nbsp; 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I'm Dev.Amirreza <img align="center" alt="GIF" width="60"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"> &nbsp; 
 
  
  
