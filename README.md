@@ -3,7 +3,7 @@
  
  
 - <img src="https://github.com/amirrezarzyi/amirrezarzyi/blob/main/media/gandalf_parrot.gif" width="28"> Currently working with Laravel Framwork at <a href="https://github.com/Sepehr-ICT"> Fava-Gostar-Sepehr.co </a>
-- <img src="https://github.com/amirrezarzyi/amirrezarzyi/blob/main/media/Rocket.gif" width="28">  &nbsp;I’m currently learning Js, React
+- <img src="https://github.com/amirrezarzyi/amirrezarzyi/blob/main/media/Rocket.gif" width="28">  &nbsp;I’m currently learning Js, SQL SERVER
 
 <div align="center">
 <h3> Connect with me<a><img src="https://github.com/amirrezarzyi/amirrezarzyi/blob/main/media/Handshake.gif" width="60"></a>
